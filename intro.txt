@@ -1,1 +1,2 @@
 Git practice session
+This line is written in main branch
